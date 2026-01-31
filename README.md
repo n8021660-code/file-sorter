@@ -14,13 +14,13 @@ python3 sorter.py /path/to/folder
 
 ## Example
 ## Before:
-
+```text```
 files.txt
 photo.jpg
 doc.pdf
 
 ## After:
-
+```text```
 TXT/files.txt
 JPG/photo.jpg
 PDF/doc.pdf
