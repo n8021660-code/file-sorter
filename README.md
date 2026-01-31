@@ -9,20 +9,20 @@
 - Работает из терминала
 
 ## Использование
-```bash
+```bash```
 python3 sorter.py /path/to/folder
 
 
-```Example
+## Example
 
-Before:
+## Before:
 
 files.txt
 photo.jpg
 doc.pdf
 
 
-After:
+## After:
 
 TXT/files.txt
 JPG/photo.jpg
