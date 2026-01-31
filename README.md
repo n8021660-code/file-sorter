@@ -9,7 +9,7 @@
 - Работает из терминала
 
 ## Использование
-```bash```
+```bash
 python3 sorter.py /path/to/folder
 
 ## Example
