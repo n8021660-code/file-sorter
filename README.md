@@ -13,6 +13,7 @@
 python3 sorter.py /path/to/folder
 
 
+```Example
 
 Before:
 
@@ -26,3 +27,4 @@ After:
 TXT/files.txt
 JPG/photo.jpg
 PDF/doc.pdf
+
