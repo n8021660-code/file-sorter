@@ -12,7 +12,7 @@
 ```bash
 python3 sorter.py /path/to/folder
 
-```Example
+
 
 Before:
 
