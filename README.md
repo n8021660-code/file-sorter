@@ -12,13 +12,3 @@
 
 python3 sorter.py /path/to/folder
 
-## Example
-Before:
-files.txt
-photo.jpg
-doc.pdf
-After:
-TXT/files.txt
-JPG/photo.jpg
-PDF/doc.pdf
-
