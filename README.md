@@ -10,8 +10,7 @@
 
 ## Использование
 
-
-```bash python3 sorter.py /path/to/folder```
+python3 sorter.py /path/to/folder
 
 ## Example
 
