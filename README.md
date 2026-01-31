@@ -13,7 +13,7 @@
 
 ```bash python3 sorter.py /path/to/folder```
 
-##Example
+## Example
 
 Before:
 
